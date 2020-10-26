@@ -1,5 +1,0 @@
-
-
-Hash table
-
-
